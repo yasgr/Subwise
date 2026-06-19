@@ -1,4 +1,5 @@
 # Subwise
+## Live demo: [project-bwrui.vercel.app](https://project-bwrui.vercel.app/)
 
 A client-side subscription tracker. Add what you're paying for, see what's renewing soon, what it's costing you per month or year, and get lightweight spending insights. All in the browser, no account, no backend.
 
